@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @burakgonullu
-- 👀 I’m interested in Digital Health and various usage of Data Science in Healthcare
+- 👀 I’m interested in Digital Health and various usage sites of Data Science in Healthcare
 - 🌱 I’m currently learning Machine Learning for Healthcare
 - 📫 How to reach me -- > burakgonullu@yahoo.com
 
